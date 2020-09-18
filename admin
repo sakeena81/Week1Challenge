@@ -1,5 +1,6 @@
-I want to begin with a USERNAME option
-I want to offer a password reset option
-I want control of all bookings
-I want an auto update of all movies
-I want control of USERS accounts and access
+I want to begin with a USERNAME option  (admin should have there own unique option to make a personalised ADMIN USERNAME)
+I want to offer a password reset option (for the users, ADMIN may need to over-ride users password and reset in case password is forgotten)
+I want control of all bookings          (to be able to contact users or make changes on behalf of user in case of MOVIE time changes)
+I want an auto update of all movies.    (movies, timings and screen locations to be updated automatically)
+I want control of USERS accounts        (to be able to view USER options of movies, times, seating options and screen location)                                       
+I want control of STAFF accounts.       (to be able to view STAFF use of website, to ensure STAFF are printing tickets, answering queries)
