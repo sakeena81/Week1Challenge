@@ -8,6 +8,8 @@ Seating
 access to booking online
 purchase button
 cancellation buttons 48 hours prior to the screening
+TIME ESTIMATION: 2 DAYS
+
 
 USER2
 Website with full list of movies
@@ -20,6 +22,8 @@ Disabled seating
 Seating number for non-disabled
 Purchase button
 Confirmation email
+TIME ESTIMATION: 4 DAYS
+
 
 User3
 Create an account
@@ -35,3 +39,4 @@ Purchase button and payment options
 Confirmation email
 the option to cancel within a set time
 Option to print tickets or download a e-ticket
+TIME ESTIMATION: 6 DAYS
