@@ -1,1 +1,37 @@
+USER1
+book a ticket to attend the Cinema
+Movie choice
+Day
+Time
+Number of patrons
+Seating
+access to booking online
+purchase button
+cancellation buttons 48 hours prior to the screening
 
+USER2
+Website with full list of movies
+Choose movie
+Day
+Time
+Number of People
+Disabled access
+Disabled seating
+Seating number for non-disabled
+Purchase button
+Confirmation email
+
+User3
+Create an account
+Website view of all the movies
+categorised into family friendly, animation, action, drama, romance, horror. (all genres categorised for each of use)
+Choose Movie
+Day
+Time
+Number of Patrons
+Seating
+Family/priority seating
+Purchase button and payment options
+Confirmation email
+the option to cancel within a set time
+Option to print tickets or download a e-ticket
